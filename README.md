@@ -25,4 +25,4 @@ Las tecnologías que utilice son :
 Aprender a utilizar las etiquetas estándar de HTML5 y CSS3.
 
 ### Link a demo
-En el siguiente link pueder ver mi proyecto terminado: [Copia de google](#)
+En el siguiente link pueder ver mi proyecto terminado: [Copia de google](https://copiadegoogle-beige.vercel.app)
